@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 const JoinCommunity = () => {
     return (
       <section className="py-12 bg-white text-black text-center text-2xl mb-11 mt-11">
